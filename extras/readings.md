@@ -57,6 +57,7 @@ Name | Author(s)
 [Principles of Compiler Design](https://www.amazon.com/Principles-Compiler-Addison-Wesley-information-processing/dp/0201000229) | Alfred Aho, Jeffrey Ullman
 [Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/) | Various
 [System Design: Design large-scale systems](https://github.com/donnemartin/system-design-primer) | Various
+[Code: The Hidden Language of Computer Hardware and Software](https://codehiddenlanguage.com/Chapter00/) | Charles Petzold
 
 ## Theory
 
@@ -68,7 +69,7 @@ Name | Author(s)
 [The Algorithm Design Manual (3rd Edition)](https://www.algorist.com/) | Steven Skiena
 [Algorithms (4th Edition)](https://algs4.cs.princeton.edu/home/) | Robert Sedgewick
 [Algorithms Illuminated](https://algorithmsilluminated.org/) | Tim Roughgarden
-[Category Theory: A Gentle Introduction](http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf) | Peter Smith
+[Introducing Category Theory](https://www.logicmatters.net/categories/SmithCat.pdf) | Peter Smith
 [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | Bartosz Milewski
 [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) | Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze
 [Computer Science: An interdisciplinary approach](https://introcs.cs.princeton.edu/java/cs/) | Robert Sedgewick, Kevin Wayne
